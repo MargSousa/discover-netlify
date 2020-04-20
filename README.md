@@ -8,4 +8,4 @@
 
 ## Deployment
 
-- Link to the website deployed on Netlify : [https://cocky-dijkstra-e65daf.netlify.app]()
+- Link to the website deployed on Netlify : [Link](https://cocky-dijkstra-e65daf.netlify.app)
